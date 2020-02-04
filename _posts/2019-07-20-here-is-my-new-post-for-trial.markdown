@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evolution of Blogging
-date: 2019-10-19
+date: 2020-02-04
 published: true
 header_feature_image: _uploads/Lighting.jpg
 caption: "Evolution of Blogging"
