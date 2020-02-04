@@ -3,8 +3,8 @@ layout: post
 title: The Evolution of Blogging
 date: 2019-10-19
 published: true
-header_feature_image: _uploads/tomatoes.jpg
-caption: "Juicy Tomatoes"
+header_feature_image: _uploads/Lighting.jpg
+caption: "Evolution of Blogging"
 tags:
   - Journalism
   - Life
