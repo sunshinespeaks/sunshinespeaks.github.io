@@ -20,7 +20,7 @@ Over the years blogging has become increasingly popular, using all forms of medi
 In the beginning, majority of the small blogging community hand coded their sites using a new HTML page each time they posted a new entry. However, with the rise in popularity, blogging quickly helped bring about new tools to help ease the process. The first tool was Pitas, created in 1999, a tool for first-time bloggers, adding links with a space to comment.
 Over time more personal blogs became increasingly popular, by this time the links were being dropped and more personal, relatable commentary was taking over. Rather than using blogs to highlight web journeys, people were using the platform to curate more personal content journeys, creating discussions and giving people a chance to express themselves digitally. This idea was likened to a digital journal or diary entry. Blogger was created in August 1999, software that helped create URL’s for entry posts, instead of endlessly scrolling through blog pages to find a blog, a permalink brought the users directly to the desired content.  
 
-[![Blogging](/_uploads/brooke-lark-W1B2LpQOBxA-unsplash.jpg)](/_uploads/brooke-lark-W1B2LpQOBxA-unsplash.jpg)
+[![Blogging](/_uploads/FT-Blogging-Income.jpg)](/_uploads/FT-Blogging-Income.jpg)
 
 Today anyone can create a blog. There are endless websites and software to create a blog and upload any content. Some people create for their job, some use it to log key life events, some use this platform to create a discussion or highlight issues and many simply choose to blog as a hobby. Open source platforms such as WordPress and WIX etc allow anyone to blog, helping to meet the rise in demand.
 
