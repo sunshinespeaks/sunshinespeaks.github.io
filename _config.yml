@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: My Blog and Holistic Recipes
+header_text: The Holistic Kitchen and Blog 
 
 recipecollection: Your recipe collection
 
