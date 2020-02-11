@@ -51,12 +51,12 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: The Holistic Kitchen and Blog 
+header_text: The Holistic Kitchen and Blog
 
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/Flowers.jpg
+header_feature_image: /uploads/teapot.jpg
 recipe_bookcover: /uploads/bookcover.jpg
 
 twitter_username:   #change to your own twitter account

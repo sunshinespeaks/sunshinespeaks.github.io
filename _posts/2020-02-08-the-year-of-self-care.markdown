@@ -10,6 +10,8 @@ tags: # use [tag1,tag2]
 
 How do you define “self-care”? What does it mean? How do you do it? How do you find the time? Does self-care really involve eating a tonne of greens, a fresh manicure, an abundance of crystals and regular meditation? So many people use the word “self-care” but ultimately, we all struggle to find the balance when attempting to prioritise a little TLC.
 
+[![Chill Window Snug ](/_uploads/windowseat.jpg)](/_uploads/windowseat.jpg)
+
 Speaking from experience… when I attempt a routine of “self-care”, personal to me, everything in life just seems to flow better. Self-care can be as simple as recognising and taking better care of your mental health as well as physically. I attempted to explore some of the best ways to relive stress and give yourself a little self-care. Here are 6 amazing ways to “self-care”:
 
 1.	Mediation – Meditation is a great way to relieve stress at the end of a busy day or simply to begin 0your day in the most peaceful and positive way. Studies have shown that meditation can significantly reduce stress and anxiety symptoms. Furthermore, studies have shown positive neurological affects as a meditative state encourages the growth of new neurons. Entering a mindful, meditative state helps influence brain activity in areas that are involved in reducing anxiety and stress. This technique is scientifically proven to increase your mood!
