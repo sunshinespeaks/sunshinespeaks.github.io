@@ -10,7 +10,7 @@ tags: # use [tag1,tag2]
 
 How do you define “self-care”? What does it mean? How do you do it? How do you find the time? Does self-care really involve eating a tonne of greens, a fresh manicure, an abundance of crystals and regular meditation? So many people use the word “self-care” but ultimately, we all struggle to find the balance when attempting to prioritise a little TLC.
 
-[![Chill Window Snug ](/_uploads/windowseat.jpg)](/_uploads/windowseat.jpg)
+[![Nourish to Flourish ](/_uploads/HC-picture-2.jpg)](/_uploads/HC-picture-2.jpg)
 
 Speaking from experience… when I attempt a routine of “self-care”, personal to me, everything in life just seems to flow better. Self-care can be as simple as recognising and taking better care of your mental health as well as physically. I attempted to explore some of the best ways to relive stress and give yourself a little self-care. Here are 6 amazing ways to “self-care”:
 
