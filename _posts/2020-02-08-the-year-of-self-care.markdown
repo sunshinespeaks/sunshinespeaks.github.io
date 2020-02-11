@@ -6,6 +6,7 @@ published: false
 header_feature_image: _uploads/chillvibes.jpg
 caption:
 tags:    # use [tag1,tag2]
+---
 
 How do you define “self-care”? What does it mean? How do you do it? How do you find the time? Does self-care really involve eating a tonne of greens, a fresh manicure, an abundance of crystals and regular meditation? So many people use the word “self-care” but ultimately, we all struggle to find the balance when attempting to prioritise a little TLC.
 
