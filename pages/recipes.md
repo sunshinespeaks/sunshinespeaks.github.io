@@ -8,10 +8,8 @@ published: true
 hide: false #remove this line when you want your recipe site on the menu
 ---
 
-Here is an introduction to my recipe site
+These recipes will help provide you with healthy, healing foods and recipes that still guarantee to get your mouth watering! The recipes offer everything you need to prepare and create delicious foods that can help to heal, strengthen, nourish and energize the body. Not only will The Holistic Kitchen help you create balanced meals but also offer healthy and flavourful alternatives to breakfast classics, lunches & snacks and refreshing beverages.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+The recipes are perfect if you are seeking alternatives due to allergies or personal preferences or even if you are just looking to enhance your dietary and gut health. The Holistic Kitchen contains recipes that are vegan, anti-inflammatory, nut-free and gluten free.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It is often hard when dealing with new intolerance's and dietary requirements, certain foods can leave you feeling sluggish, tired or bloated and quite often you feel limited in terms of ingredients and recipes. The Holistic Kitchen is here to help you fall in love with food again!
