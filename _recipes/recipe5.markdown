@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Loaded Mexican-Style Sweet Potato Skins
+title: Gooey Sweet Potato Brownie & Warm Chocolate Sauce
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -14,59 +14,53 @@ tags:
   - Guacamole
 ---
 
-# Loaded Mexican-Style Sweet Potato Skins
+# Gooey Sweet Potato Brownie & Warm Chocolate Sauce
 
-Crispy sweet potato skins stuffed with mashed sweet potato, black beans, cherry tomatoes, chipotle, miso and coriander, topped with a dollop of tahini coconut yoghurt and homemade guacamole.
-
-- Avocado's are a great source of Vitamins, containing vitamins; C, E, K and B-6. They are also high in magnesium and potassium and are a great alternative source of protein and fatty acids.  
+Try out this yummy, gooey sweet potato brownie recipe! This recipe is chocolatey and rich, the perfect sweet dessert option with all natural ingredients. Be indulgent!
 
 - Sweet potatoes are great for your overall gut health and an excellent support for your immune system. They have also been proven to support healthy vision and can enhance brain function.
 
 <!--more-->
 
-[![Loaded Mexican-Style Sweet Potato Skins ](/_uploads/loadedsweetpotatoskins.jpg)](/_uploads/loadedsweetpotatoskins.jpg)
+[![Gooey Sweet Potato Brownies & Warm Chocolate Sauce ](/_uploads/sweetpotatobrownie.jpg)](/_uploads/sweetpotatobrownie.jpg)
 
 ## Ingredients
 
-## For the Potatoes:
-- 2 medium sweet potatoes
-- 14 cherry tomatoes
-- 1 tablespoon of apple cider vinegar
-- 2 cloves of garlic, peeled and chopped
-- 200g of black beans, drained
-- Pinch of fresh coriander, chopped
-- ½ a teaspoon of chipotle powder
-- 1 teaspoon of brown miso paste
-- Olive oil
-- Salt and pepper
+## For the Brownies:
 
-## For the Sour Cream:
-- 200g natural yogurt (I use coconut yogurt)
-- 1 tablespoon of tahini
-- Juice of 1 lemon
-- Salt and pepper to taste
+- 2 large sweet potatoes, peeled and cut into small cubes
+- 12 medjool dates, pitted
+- 100g ground almonds
+- 100g oat flour
+- 2 tablespoons coconut oil, melted
+- 6 tablespoons cacao powder
+- 6 tablespoons maple syrup
+- 2 tablespoons almond butter, optional
+- Water from 1x 400g can chickpeas
+- 1 teaspoon baking powder
+- Handful of dark chocolate chips
+- Pinch of sea salt
 
-## For the Guacamole:
-- 2 avocados, peeled and pitted
-- Juice of half a lime
-- Handful of fresh coriander
-- ½ a red chilli
-- 10 sun-dried tomatoes, roughly chopped
-
+## For the Chocolate Sauce
+- 1 teaspoon cacao powder
+- 2 tablespoons coconut oil
+- 2 tablespoons date syrup
+- 4 tablespoons coconut milk, from a carton, or any other plant-based milk
+- Pinch of sea salt
 
 ## Method
 
-1. Preheat the oven to 200c, fan setting.
-2. Wash the sweet potatoes, pierce the skin with a fork a few times and then bake for 60-70 minutes until cooked through.
-3. While the potatoes cook, peel and finely chop the garlic, quarter the cherry tomatoes and heat both in a pan with a glug of olive oil. Add the beans, chipotle, apple cider vinegar, miso and salt and pepper and cook for 10 minutes on a gentle heat. Roughly chop and stir in the coriander, then take off the heat.
-4. To make the sour cream, simply mix all of the ingredients together in a bowl until smooth.
-5. For the guacamole, scoop the flesh out the avocados and mash it with a fork. Finely chop the chilli and coriander then mix into the avocado flesh along with the lime and salt and pepper and sun-dried tomatoes.
-6. When the sweet potatoes are cooked, remove from the oven and cut them in half. Scoop out the middle and mix 2/3 of it into the beans and tomatoes, then scoop spoonfuls back into the potato skins.
-7. Serve the loaded sweet potato skins with big spoonfuls of cool guacamole and sour cream on top.
+1. Preheat the oven to 180c, fan setting.
+2. Place the sweet potato into a steamer or in a saucepan with boiling water for 15-30 minutes, until they become really soft (the length of time will depend on the size of the chunks).
+3. While the sweet potatoes cook, grind the oats in a food processor until they form a flour (if not already), place to one side.
+4. Once the sweet potatoes are soft and beginning to fall apart, drain them and add them to a food processor with the pitted dates. Blend until smooth. Now add the remaining ingredients (except the chocolate) and blend until smooth. Once blended, stir through the chocolate chips (if using).
+5. Spoon the mixture into a lined baking dish and cook for 45-50 minutes until you can pierce the brownie with a fork and bring it out clean.
+6. Remove the tray and allow it to cool for at least 10 minutes – this is really important as it needs this time to stick together.
+7. For the chocolate sauce, simply place all of the ingredients into a pan over a medium heat. Stir continuously until everything is melted and has come together to form a smooth sauce, about 5 minutes. Pour on top of the brownies when ready to serve.
 
-- Serves: 2 people
+- Makes: 10 Brownies
 - Vegetarian and Vegan Friendly
-- Prep time: 10 minutes
-- Cook time: 60-70 minutes
+- Prep time: 30 minutes
+- Cook time: 45 - 50 minutes
 - Overall time: Max 1hr 20mins
-- Calories: 200 kcal per potato skin
+- Calories: 250 kcal per brownie
