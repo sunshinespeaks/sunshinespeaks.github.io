@@ -17,7 +17,7 @@ This recipe is a perfectly delicious anti-inflammatory ginger and turmeric soup.
 Key Ingredient health benefits:
 -	Ginger has been used for centuries to help calm upset stomachs. Ginger helps to stimulate the creation of bile and therefore is the perfect ingredient for aiding digestion.
 
--	Turmeric – if you know you know. Turmeric is a well-know anti-inflammatory ingredient. Curcumin, within turmeric and alongside black pepper, helps to reduce inflammation within the gut and throughout your entire body! Turmeric is also used as an ingredient to help sooth muscles in our digestive systems in order for food to pass through more easily.  
+-	Turmeric – if you know you know. Turmeric is a well-known anti-inflammatory ingredient. Curcumin, within turmeric and alongside black pepper, helps to reduce inflammation within the gut and throughout your entire body! Turmeric is also used as an ingredient to help sooth muscles in our digestive systems in order for food to pass through more easily.  
 
 <!--more-->
 
