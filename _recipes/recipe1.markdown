@@ -27,7 +27,6 @@ Enjoy these delicious pancakes with a gluten free alternative! Swap out the bana
 
 ## Ingredients
 
-- Ingredients:
 - 100g Oats (This ingredient and stage 1 can be replaced by gluten free flour)
 - 80g ground almonds
 - 200ml of almond milk

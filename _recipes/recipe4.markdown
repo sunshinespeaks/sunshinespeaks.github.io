@@ -1,57 +1,70 @@
 ---
 layout: recipe
-title: Anti- Inflammatory Ginger, Turmeric & Carrot Soup
+title: Turkey Burgers & Tzatziki Dip
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Ginger
-  - Turmeric
-  - Carrot
-  - Soup
+  - Burgers
+  - Recipe
+  - Food
+  - Meat
+  - Dip
+  - Tzatziki
 ---
 
-# Anti- Inflammatory Ginger and Turmeric Soup
+# Turkey Burgers & Tzatziki Dip
 
-This recipe is a perfectly delicious anti-inflammatory ginger and turmeric soup. It’s packed full of nutrients and flavour, as well as being easy on the gut!
-Key Ingredient health benefits:
--	Ginger has been used for centuries to help calm upset stomachs. Ginger helps to stimulate the creation of bile and therefore is the perfect ingredient for aiding digestion.
--	Turmeric – if you know you know. Turmeric is a well-known anti-inflammatory ingredient. Curcumin, within turmeric and alongside black pepper, helps to reduce inflammation within the gut and throughout your entire body! Turmeric is also used as an ingredient to help sooth muscles in our digestive systems in order for food to pass through more easily.  
+-
+-	Turkey mince is a much cleaner, healthier and easier digestible alternative to beef, lamb or chicken burgers. It is an excellent source of high protein and is also a much less fatty meat than the above alternatives.
 
 <!--more-->
 
-[![Anti-Inflammatory Ginger, Turmeric & Carrot Soup](/_uploads/carrotsoupupdate.jpg)](/_uploads/carrotsoupupdate.jpg)
+[![Turkey Burgers with Mashed Avo & Tzatziki Dip](/_uploads/turkeyburgers.jpg)](/_uploads/turkeyburgers.jpg)
 
 ## Ingredients
 
-- Ingredients:
-- 1 tablespoon of olive oil
-- 1 Leek sliced
-- 136g of chopped fennel
-- 450g of chopped carrots
-- 136g of chopped butternut squash
-- 2 cloves of garlic, finely chopped
-- 1 tablespoon of grated ginger
-- 1 tablespoon of turmeric powder
-- Salt and pepper (season to taste)
-- 1.2l of vegetable broth
-- 1 can of light coconut milk
+## Turkey Burgers:
+- 1 tablespoon of extra-virgin olive oil
+- 1 sweet onion, minced
+- 1 egg
+- Handful of roughly chopped parsley
+- ½ teaspoon of dried oregano
+- ¼ teaspoon of red-pepper flakes
+- 450g of ground turkey (turkey mince)
+- 100g of bread crumbs
+- Salt and pepper for seasoning
+
+## Tzatziki Dip:
+- 130g of Greek yoghurt
+- ½ a cucumber, diced.
+- 1 tablespoon of extra-virgin olive oil
+- 2 tablespoons of lemon juice
+- 1 pinch pf garlic powder
+- Salt and pepper
+- Handful of roughly chopped parsley
+
+## Burger Toppings:
+- 4 whole-wheat hamburger buns, gluten-free buns OR lettuce wrapped
+- ½ red onion
+- 8 lettuce leaves
+- 2 tomatoes, sliced
+- Avocado (sliced or mashed)
 
 
 
 ## Method
 
-Method:
-1.	Heat olive oil in large saucepan. Add the fennel, leeks, carrots and squash. Saute for 3-5minutes until the veggies start to soften slightly.
-2.	Next add the garlic, ginger, turmeric and the salt and pepper and continue sautéing for a few more minutes.
-3.	Next add in the broth and the coconut milk. Bring the mixture to a boil and then cover and simmer for roughly 20 minutes.  
-4.	Once the soup is cooked, then add it all into a blender and blend until the mixture is creamy in texture. Taste and adjust seasonings to your taste.
-5.	Serve immediately with a dollop of coconut yoghurt or crème fraiche and happy eating!
-6.	If you have leftovers you can always freeze the soup and have again another day!  
+1.	Make the Turkey Burgers: In a small pan heat the olive oil over a medium heat. Add the onion and cook until tender, 3-4 minutes. Add the garlic and sauté until fragrant, 1 minute. Set aside to cool to room temperature.  
+2.	In a medium sized bowl, mix the cooled onion mixture with the egg, parsley, oregano, red-pepper flakes and ground turkey. Add the bread crumb and season with salt and pepper. Mix until combined.
+3.	Preheat the oven to 190C/ 375F. Make the meat mixture into patties of equal size. Heat an oven-safe pan over a medium to high heat and spray with a non-stick cooking spray if possible.
+4.	Place the burgers into the pan and sear on each side until well browned, 4-5 minutes per side. Move the pan to the oven and cook until the burgers are fully cooked through, around 15 minutes.
+5.	Make the Tzatziki dip: In a medium bowl, mix the yoghurt and cucumber, olive oil, lemon juice and garlic powder to combine. Then season with salt and pepper and stir in the parsley.
+6.	Make toppings: Place each burger on the bottom half of the bun and top each with as much tzatziki as you desire, 1-2 lettuce leaves, tomato slices and the top half of the bun. Serve Immediately. Enjoy!
 
-- Prep time: 10 mins
-- Cook time: 40 mins
-- Total Time: 50 mins
-- Serves: 4 people (can be made in bulk and frozen for another day!)
-- Calories: 220 kcal
+- Serves: 4 people
+- Prep time: 35 minutes
+- Cook time: 35 minutes
+- Overall time: 1 Hour 10 minutes
+- Calories: 350 kcal per burger

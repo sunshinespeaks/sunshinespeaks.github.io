@@ -25,7 +25,6 @@ Key Ingredient health benefits:
 
 ## Ingredients
 
-- Ingredients:
 - 1 tablespoon of olive oil
 - 1 Leek sliced
 - 136g of chopped fennel
@@ -42,7 +41,6 @@ Key Ingredient health benefits:
 
 ## Method
 
-Method:
 1.	Heat olive oil in large saucepan. Add the fennel, leeks, carrots and squash. Saute for 3-5minutes until the veggies start to soften slightly.
 2.	Next add the garlic, ginger, turmeric and the salt and pepper and continue sautéing for a few more minutes.
 3.	Next add in the broth and the coconut milk. Bring the mixture to a boil and then cover and simmer for roughly 20 minutes.  
