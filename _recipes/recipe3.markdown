@@ -1,14 +1,15 @@
 ---
 layout: recipe
-title: Anti- Inflammatory Ginger and Turmeric Soup
+title: Anti- Inflammatory Ginger, Turmeric & Carrot Soup
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Ginger
+  - Turmeric 
+  - Carrot
+  - Soup
 ---
 
 # Anti- Inflammatory Ginger and Turmeric Soup
