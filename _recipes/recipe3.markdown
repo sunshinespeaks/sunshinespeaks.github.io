@@ -4,7 +4,7 @@ title: Anti- Inflammatory Ginger, Turmeric & Carrot Soup
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 3
 tags:
   - Ginger
   - Turmeric

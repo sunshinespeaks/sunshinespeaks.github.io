@@ -4,7 +4,7 @@ title: Yummy Banana and Maple Pancakes
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order:
+order: 1 
 tags:
   - Breakfast
   - Pancakes
