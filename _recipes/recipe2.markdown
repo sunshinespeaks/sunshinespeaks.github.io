@@ -6,48 +6,49 @@ excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Breakfast
+  - Banana
+  - Food
+  - Recipes
+  - Oatmeal
+  - Blueberry
 ---
 
-# Recipe Title
+# Baked Banana & Blueberry Oatmeal
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I know some people find oatmeal a bit unusual however I cannot recommend this recipe more! I love the yummy fruit combination and hint of cinnamon. You can always swap out the toppings if you fancy mixing up the flavours.   
+
+- This recipe is vegetarian and vegan friendly
+- Oats are packed full of antioxidants and fibre, they are also incredibly filling and provide slow releasing energy.
 
 <!--more-->
 
+[![Baked Banana & Blueberry Oatmeal](/_uploads/baked-banana-blueberry-oatmeal-recipe-1-440x440.jpg)](/_uploads/baked-banana-blueberry-oatmeal-recipe-1-440x440.jpg)
+
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- 50g oats
+- Handful of blueberries
+- 50g walnuts
+- 2 ripe bananas
+- 30g sunflower seeds
+- 70g raisins
+- 5 tablespoons almond milk
+- 2 teaspoons cinnamon
+- 2 tablespoons maple syrup
 
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Preheat oven to 180c, fan setting.
+2. Place the oats in a bowl and cover with boiling water, just so the top is covered - soak for 10 minutes, until soft.
+3. While the oats are soaking, mash one of the bananas and slice the other into pieces.
+4. Crush the walnuts into bite-sized chunks.
+5. Once the oats have absorbed the water and become soft, stir through the mashed banana, chopped walnuts, maple syrup, cinnamon, blueberries, sunflower seeds, almond milk and raisins.
+6. Transfer the mixture to a baking dish and place the pieces of sliced banana on top.
+7. Cook for 20 minutes, until golden.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Serves: 2 people
+- Prep time: 10 minutes
+- Cook time: 15-20 minutes
+- Calories: Around 200kcal per serving
