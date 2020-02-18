@@ -26,20 +26,20 @@ Fresh, bright and zingy, this salad ticks every box. This recipe works great for
 
 ## Ingredients
 
-¼ small red cabbage
-2 salmon fillet, uncooked
-2 squeezes lime juice
-3 tbsp white wine vinegar
-2 large carrots
-½ apple
-4 tbsp edamame beans
-2 sprinkles of sesame seeds
+- ¼ small red cabbage
+- 2 salmon fillet, uncooked
+- 2 squeezes lime juice
+- 3 tbsp white wine vinegar
+- 2 large carrots
+- ½ apple
+- 4 tbsp edamame beans
+- 2 sprinkles of sesame seeds
 
 ## For the Dressing:
-2cm piece of ginger
-Juice and zest ½ lime
-¼ small red chilli, diced
-2 tsp sesame oil
+- 2cm piece of ginger
+- Juice and zest ½ lime
+- ¼ small red chilli, diced
+- 2 tsp sesame oil
 
 ## Method
 
