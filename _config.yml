@@ -53,7 +53,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 # Change this text to yourown
 header_text: Protect Your Peace
 
-recipecollection: Your recipe collection
+recipecollection: The Holistic Kitchen Recipes
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /uploads/chillcoffee-unsplash.jpg
