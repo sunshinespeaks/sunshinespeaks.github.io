@@ -22,7 +22,7 @@ tags:
 
 <!--more-->
 
-[![Balsamic Chicken with Brussel Sprouts, Cranberries & Pumpkin Seeds](//_uploads/balsamicchickenbrussels.jpg)](//_uploads/balsamicchickenbrussels.jpg)
+[![Almond Butter and Pink Beet Smoothie](/_uploads/almondandbeetsmoothieNEW.jpg)](/_uploads/almondandbeetsmoothieNEW.jpg)
 
 ## Ingredients
 
