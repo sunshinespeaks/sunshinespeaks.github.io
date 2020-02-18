@@ -54,4 +54,4 @@ Juice and zest ½ lime
 - Prep time: 5 minutes
 - Cook time: 10 minutes
 - Overall time: 15 minutes
-- Calories: 200 kcal per muffin
+- Calories: 450 kcal per serving
