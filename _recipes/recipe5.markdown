@@ -1,24 +1,26 @@
 ---
 layout: recipe
-title: Turkey Burgers & Tzatziki Dip
+title: Loaded Mexican-Style Sweet Potato Skins
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Burgers
-  - Recipe
+  - Sweetpotato
+  - Mexican
+  - Dinner
+  - Recipes
   - Food
-  - Meat
-  - Dip
-  - Tzatziki
+  - Guacamole
 ---
 
-# Turkey Burgers & Tzatziki Dip
+# Loaded Mexican-Style Sweet Potato Skins
 
-- The perfect burger to cure your cravings whilst still being conscious of your gut health. Turkey burgers are a great little meat swap to avoid heavy and hard to digest meat alternatives.  
+Crispy sweet potato skins stuffed with mashed sweet potato, black beans, cherry tomatoes, chipotle, miso and coriander, topped with a dollop of tahini coconut yoghurt and homemade guacamole.
 
--	Turkey mince is a much cleaner, healthier and easier digestible alternative to beef, lamb or chicken burgers. It is an excellent source of high protein and is also a much less fatty meat than the above alternatives.
+- Avocado's are a great source of Vitamins, containing vitamins; C, E, K and B-6. They are also high in magnesium and potassium and are a great alternative source of protein and fatty acids.  
+
+- Sweet potatoes are great for your overall gut health and an excellent support for your immune system. They have also been proven to support healthy vision and can enhance brain function.
 
 <!--more-->
 
@@ -26,46 +28,45 @@ tags:
 
 ## Ingredients
 
-## Turkey Burgers:
-- 1 tablespoon of extra-virgin olive oil
-- 1 sweet onion, minced
-- 1 egg
-- Handful of roughly chopped parsley
-- ½ teaspoon of dried oregano
-- ¼ teaspoon of red-pepper flakes
-- 450g of ground turkey (turkey mince)
-- 100g of bread crumbs
-- Salt and pepper for seasoning
-
-## Tzatziki Dip:
-- 130g of Greek yoghurt
-- ½ a cucumber, diced.
-- 1 tablespoon of extra-virgin olive oil
-- 2 tablespoons of lemon juice
-- 1 pinch pf garlic powder
+## For the Potatoes:
+- 2 medium sweet potatoes
+- 14 cherry tomatoes
+- 1 tablespoon of apple cider vinegar
+- 2 cloves of garlic, peeled and chopped
+- 200g of black beans, drained
+- Pinch of fresh coriander, chopped
+- ½ a teaspoon of chipotle powder
+- 1 teaspoon of brown miso paste
+- Olive oil
 - Salt and pepper
-- Handful of roughly chopped parsley
 
-## Burger Toppings:
-- 4 whole-wheat hamburger buns, gluten-free buns OR lettuce wrapped
-- ½ red onion
-- 8 lettuce leaves
-- 2 tomatoes, sliced
-- Avocado (sliced or mashed)
+## For the Sour Cream:
+- 200g natural yogurt (I use coconut yogurt)
+- 1 tablespoon of tahini
+- Juice of 1 lemon
+- Salt and pepper to taste
 
+## For the Guacamole:
+- 2 avocados, peeled and pitted
+- Juice of half a lime
+- Handful of fresh coriander
+- ½ a red chilli
+- 10 sun-dried tomatoes, roughly chopped
 
 
 ## Method
 
-1.	Make the Turkey Burgers: In a small pan heat the olive oil over a medium heat. Add the onion and cook until tender, 3-4 minutes. Add the garlic and sauté until fragrant, 1 minute. Set aside to cool to room temperature.  
-2.	In a medium sized bowl, mix the cooled onion mixture with the egg, parsley, oregano, red-pepper flakes and ground turkey. Add the bread crumb and season with salt and pepper. Mix until combined.
-3.	Preheat the oven to 190C/ 375F. Make the meat mixture into patties of equal size. Heat an oven-safe pan over a medium to high heat and spray with a non-stick cooking spray if possible.
-4.	Place the burgers into the pan and sear on each side until well browned, 4-5 minutes per side. Move the pan to the oven and cook until the burgers are fully cooked through, around 15 minutes.
-5.	Make the Tzatziki dip: In a medium bowl, mix the yoghurt and cucumber, olive oil, lemon juice and garlic powder to combine. Then season with salt and pepper and stir in the parsley.
-6.	Make toppings: Place each burger on the bottom half of the bun and top each with as much tzatziki as you desire, 1-2 lettuce leaves, tomato slices and the top half of the bun. Serve Immediately. Enjoy!
+1. Preheat the oven to 200c, fan setting.
+2. Wash the sweet potatoes, pierce the skin with a fork a few times and then bake for 60-70 minutes until cooked through.
+3. While the potatoes cook, peel and finely chop the garlic, quarter the cherry tomatoes and heat both in a pan with a glug of olive oil. Add the beans, chipotle, apple cider vinegar, miso and salt and pepper and cook for 10 minutes on a gentle heat. Roughly chop and stir in the coriander, then take off the heat.
+4. To make the sour cream, simply mix all of the ingredients together in a bowl until smooth.
+5. For the guacamole, scoop the flesh out the avocados and mash it with a fork. Finely chop the chilli and coriander then mix into the avocado flesh along with the lime and salt and pepper and sun-dried tomatoes.
+6. When the sweet potatoes are cooked, remove from the oven and cut them in half. Scoop out the middle and mix 2/3 of it into the beans and tomatoes, then scoop spoonfuls back into the potato skins.
+7. Serve the loaded sweet potato skins with big spoonfuls of cool guacamole and sour cream on top.
 
-- Serves: 4 people
-- Prep time: 35 minutes
-- Cook time: 35 minutes
-- Overall time: 1 Hour 10 minutes
-- Calories: 350 kcal per burger
+- Serves: 2 people
+- Vegetarian and Vegan Friendly
+- Prep time: 10 minutes
+- Cook time: 60-70 minutes
+- Overall time: Max 1hr 20mins
+- Calories: 200 kcal per potato skin
