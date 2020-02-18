@@ -21,7 +21,7 @@ Key Ingredient health benefits:
 
 <!--more-->
 
-[![Anti-Inflammatory Ginger and Turmeric Carrot Soup](/_uploads/carrotsoup.jpg)](/_uploads/carrotsoup.jpg)
+[![Anti-Inflammatory Ginger and Turmeric Carrot Soup](/_uploads/carrotsoupnew.jpg)](/_uploads/carrotsoupnew.jpg)
 
 ## Ingredients
 
