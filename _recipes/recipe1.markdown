@@ -23,7 +23,7 @@ Enjoy these delicious pancakes with a gluten free alternative! Swap out the bana
 
 <!--more-->
 
-
+[![Yummy Banana and Maple Pancakes ](/_uploads/bananapancakes-unsplashnew.jpg)](/_uploads/bananapancakes-unsplashnew.jpg)
 
 ## Ingredients
 
