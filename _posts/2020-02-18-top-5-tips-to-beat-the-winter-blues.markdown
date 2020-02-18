@@ -8,7 +8,11 @@ caption:
 tags:    # use [tag1,tag2]
 ---
 
+
+
 Let’s be honest winter time is the saddest time of the year, we all take for granted how sunlight (or lack thereof) can significantly affect our mood. As people we need regular fresh air and sunlight to feel and perform at our best and during winter months, honestly, it’s just hard to find the motivation to go outside and brave the freezing cold temperatures just to get our “recommended” daily sunshine intake. It’s not just the ramblings of the likes of me – it’s scientifically proven, there’s even a name for it – S.A.D (Season Affective Disorder).
+
+[![Beat the Winter Blues](/_uploads/nighttimenew.jpg)](/_uploads/nighttimenew.jpg)
 
 How can we battle these blues I hear you ask?!
 1.	Well – venturing outdoors is an obvious one. The lack of light and shorter days can make this extremely difficult, especially if you are not a particularly outdoorsy type. However fresh air is extremely important, even if it’s just a quick walk round the block. Every little helps!
