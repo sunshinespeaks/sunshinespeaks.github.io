@@ -24,7 +24,7 @@ Crispy sweet potato skins stuffed with mashed sweet potato, black beans, cherry 
 
 <!--more-->
 
-[![Turkey Burgers with Mashed Avo & Tzatziki Dip](/_uploads/turkeyburgers.jpg)](/_uploads/turkeyburgers.jpg)
+[![Loaded Mexican-Style Sweet Potato Skins ](/_uploads/loadedsweetpotatoskins.jpg)](/_uploads/loadedsweetpotatoskins.jpg)
 
 ## Ingredients
 
