@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Clean Turkey Burgers & Tzatziki Dip
+title: Turkey Burgers & Tzatziki Dip
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -14,9 +14,9 @@ tags:
   - Tzatziki
 ---
 
-# Clean Turkey Burgers & Tzatziki Dip
+# Turkey Burgers & Tzatziki Dip
 
-The perfect burger to cure your cravings whilst still being conscious of your gut health. Turkey burgers are a great little meat swap to avoid heavy and hard to digest meat alternatives.  
+- The perfect burger to cure your cravings whilst still being conscious of your gut health. Turkey burgers are a great little meat swap to avoid heavy and hard to digest meat alternatives.  
 
 -	Turkey mince is a much cleaner, healthier and easier digestible alternative to beef, lamb or chicken burgers. It is an excellent source of high protein and is also a much less fatty meat than the above alternatives.
 
