@@ -47,7 +47,7 @@ favicon: assets/favicon.ico
 # Your blog on the home page can be arranged as a grid
 
 gridlayout: false # change to true if you want grd layout
-recipemenu: false # you can change to true and a menu of all recipes will appear
+recipemenu: true # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
