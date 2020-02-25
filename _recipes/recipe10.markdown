@@ -18,7 +18,7 @@ tags:
 
 There’s no debating that beets are good for us, but we also know that they aren’t the easiest to incorporate into our diets. Heres an easy, delicious smoothie recipe to help you do just that!
 
-- Beets are great to incorporate into our diets for anti-inflammatory and detoxification benefits. They have also been shown to lower high blood pressure and improve both digestive health and athletic performance.
+Beets are great to incorporate into our diets for anti-inflammatory and detoxification benefits. They have also been shown to lower high blood pressure and improve both digestive health and athletic performance.
 
 
 

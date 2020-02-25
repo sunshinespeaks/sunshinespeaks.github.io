@@ -16,9 +16,7 @@ tags:
 
 # Balsamic Chicken with Brussel Sprouts, Cranberries & Pumpkin Seeds
 
--	Brussel sprouts are such an under-rated vegetable. Brussels are high in fibre, vitamins, minerals and antioxidants, making them a very nutritious ingredient for your diet. They also help to improve your blood sugar levels and also provide anti-inflammatory qualities.
-
--	Pumpkin seeds are rich in healthy fats, vitamins and minerals; including zinc and magnesium. They are a great source of protein and natural fats as they are full of omega-3.
+Brussel sprouts are such an under-rated vegetable. Brussels are high in fibre, vitamins, minerals and antioxidants, making them a very nutritious ingredient for your diet. They also help to improve your blood sugar levels and also provide anti-inflammatory qualities. Pumpkin seeds are rich in healthy fats, vitamins and minerals; including zinc and magnesium. They are a great source of protein and natural fats as they are full of omega-3.
 
 <!--more-->
 

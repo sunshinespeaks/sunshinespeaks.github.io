@@ -4,7 +4,7 @@ title: Yummy Banana and Maple Pancakes
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1 
+order: 1
 tags:
   - Breakfast
   - Pancakes
@@ -17,8 +17,7 @@ tags:
 
 Enjoy these delicious pancakes with a gluten free alternative! Swap out the bananas and substitute for other yummy alternatives such as nuts, strawberries or yoghurt and honey.
 
--	Oats are incredibly nutritious as they contain over 10 different types of vitamins and minerals. They are also rich in antioxidants and are great at helping to control blood sugar levels.
--	Bananas are great at topping you up on your vitamin C levels. They also contain lots of magnesium, which will do wonders for your skin! There is also a lot of potassium found in bananas which is great for your heart health and blood pressure. They also aid in digestion and leave you bursting with energy!
+Oats are incredibly nutritious as they contain over 10 different types of vitamins and minerals. They are also rich in antioxidants and are great at helping to control blood sugar levels. Bananas are great at topping you up on your vitamin C levels. They also contain lots of magnesium, which will do wonders for your skin! There is also a lot of potassium found in bananas which is great for your heart health and blood pressure. They also aid in digestion and leave you bursting with energy!
 
 
 <!--more-->
