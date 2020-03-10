@@ -1,9 +1,7 @@
 ---
 title: Diverse and Progressive Publishing
-date: 2020-03-06 12:27:00 Z
+date: 2020-03-03 12:27:00 Z
 layout: post
-header_feature_image: 
-caption: 
 ---
 
 Diverse & Progressive Publishing
