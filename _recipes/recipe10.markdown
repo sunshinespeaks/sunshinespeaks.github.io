@@ -1,17 +1,16 @@
 ---
-layout: recipe
 title: Almond Butter & Pink Beet Smoothie
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 10
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Salmon
-  - Slaw
-  - Asian
-  - Recipes
-  - Fresh
-  - Vegetables
+- Salmon
+- Slaw
+- Asian
+- Recipes
+- Fresh
+- Vegetables
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 10
 ---
 
 # Almond Butter and Pink Beet Smoothie

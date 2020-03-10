@@ -1,18 +1,17 @@
 ---
-layout: recipe
 title: Rhubarb, Apple & Ginger Muffins
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 8
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Dessert
-  - Apple
-  - Rhubarb
-  - Ginger
-  - Muffins
-  - Recipe
-  - Sweet
+- Dessert
+- Apple
+- Rhubarb
+- Ginger
+- Muffins
+- Recipe
+- Sweet
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 8
 ---
 
 # Rhubarb, Apple & Ginger Muffins

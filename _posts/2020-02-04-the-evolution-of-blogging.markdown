@@ -1,16 +1,15 @@
 ---
-layout: post
 title: The Evolution of Blogging
-date: 2020-02-04
-published: true
-header_feature_image: _uploads/Lighting.jpg
-caption: "Evolution of Blogging"
+date: 2020-02-04 00:00:00 Z
 tags:
-  - Journalism
-  - Life
-  - Food
-  - Blogging
-  - History
+- Journalism
+- Life
+- Food
+- Blogging
+- History
+layout: post
+header_feature_image: _uploads/Lighting.jpg
+caption: Evolution of Blogging
 ---
 
 Some might think the term “blogging” has only come into being in recent years however the concept of blogging has been traced back to 1997, originally named the “weblog”. The term began when John Barger came up with the genius idea of collating his favourite web content and creating commentary solely based around these interests. This idea was seen less as job and more as a hobby to log your web experience, hence the “weblog”. Come 1999, Peter Merholz entered the “blogsphere” and the idea of the “blog” was finally born.

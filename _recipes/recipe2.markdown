@@ -1,17 +1,16 @@
 ---
-layout: recipe
 title: Baked Banana & Blueberry Oatmeal
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 2
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Breakfast
-  - Banana
-  - Food
-  - Recipes
-  - Oatmeal
-  - Blueberry
+- Breakfast
+- Banana
+- Food
+- Recipes
+- Oatmeal
+- Blueberry
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 2
 ---
 
 # Baked Banana & Blueberry Oatmeal

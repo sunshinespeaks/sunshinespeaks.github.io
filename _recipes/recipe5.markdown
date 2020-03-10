@@ -1,17 +1,16 @@
 ---
-layout: recipe
 title: Gooey Sweet Potato Brownie & Warm Chocolate Sauce
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 7
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Sweetpotato
-  - Mexican
-  - Dinner
-  - Recipes
-  - Food
-  - Guacamole
+- Sweetpotato
+- Mexican
+- Dinner
+- Recipes
+- Food
+- Guacamole
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 7
 ---
 
 # Gooey Sweet Potato Brownie & Warm Chocolate Sauce

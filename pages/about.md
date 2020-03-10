@@ -1,12 +1,11 @@
 ---
-layout: page
 title: About
-subtitle: All about me and my positive posts #optional sub title to the post
-permalink: /about/
-header_feature_image:  /uploads/yellow.jpg #replace this for yours
-tags:
-published: true
-description:
+permalink: "/about/"
+layout: page
+subtitle: All about me and my positive posts
+header_feature_image: "/uploads/yellow.jpg"
+tags: 
+description: 
 ---
 
 Born and raised in England, with a passion for healthy, holistic lifestyles. I am currently in my **final** year studying a BA in Publishing Media at Oxford Brookes University.   
