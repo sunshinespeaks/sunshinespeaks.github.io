@@ -3,7 +3,7 @@ html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    background: #fff;
+    background-color:#D4DAD5;
 }
 
 .post-content h1, .excerpt h1 {
@@ -15,8 +15,15 @@ section.post-content {
 
 }
 
-div {
-background-color:;
+div.content {
+background-color: white;
+padding: 25px 20px 25px 20px;
+max-width: 900px; min-width: 500px;
+width: auto;
+margin: 12px auto 40px auto;
+border-style: double;
+border-width: thick;
+border-color: #4D6049;
 
 }
 
@@ -30,11 +37,13 @@ img {
 }
 
 h1.title {
-  font-size:2em;
-  color:rgb(43, 67, 115);
+  font-family:"Balthazar", Trebuchet, serif;
+  font-size:1.8em;
+  /* color:rgb(43, 67, 115); */
+  color: #788976;
   text-align: center;
-  border: double;
-  border-width: thick;
+  /* border: ;
+  border-width: thick; */
 
 }
 
@@ -44,27 +53,28 @@ main, menu, nav, section, summary {
 }
 
 body {
-    font-family: "courier new", "Trebuchet MS", Helvetica, Arial, sans-serif;
-    margin: 30px;
+    font-family: "Times New Roman", Tahoma , Arial, sans-serif;
+    margin: 0px;
     font-size: 1.25em;
-    max-width: 900px;
-    margin: auto;
-    /* background-color: rgb(251, 243, 188) ; */
-    padding: 0px 50px 0px 50px
+    /* max-width: 900px; */
+
+    background-color:#D4DAD5;
+    padding: 30px 50px 0px 50px;
 }
 
 h1.site-title {
+font-family:"Balthazar", trebuchet, serif;
 font-size: 2.5em;
-color:rgb(22, 41, 84);
+color:#263D21;
 text-align: center;
-padding-top: 15px);
+margin-top: 10px;
+margin: 0;
 }
 
 h2 {
-font-family:cursive: ;
+font-family: "Balthazar", trebuchet, serif;
 width:50%;
-color:rgb(22, 41, 84);
-/* padding:20px 4px 20px 4px; */
+color:#263D21;
 }
 
 img.cover {
@@ -81,22 +91,23 @@ width:40%;
 padding: 10px;
 /* border: double;
 border-color:rgb(246, 197, 52); */
-color: rgb(60, 122, 153);
+color:#1A2322;
 margin: 0 inherit;
 font-weight: bold;
+font-size: 1em
 list-style-type: square;
 }
 
 p {
 font-size: 0.8em;
 text-align: center;
-color:rgb(22, 41, 84);
+color:#263D21;
 padding-bottom: 30px;
 }
 
 #info {
 font-weight: bold;
-color: rgb(60, 122, 153);
+color:#788976;
 padding: 30px;
 }
 
@@ -121,14 +132,15 @@ p, ol, ul {
     margin-bottom: 1em;
 }
 ol{
-  font: "courier new";
-  color: rgb(22, 41, 84);
+  font: "Times New Roman";
+  color:#1A2322;
   font-size: 0.9em;
 
 
 }
 ul {
-font-size: 0.7em;
+font-size: 0.8em;
+color: #263D21;
 }
 
 li{
@@ -136,6 +148,8 @@ margin: 0.3em;
 }
 
 #next-post {
+font-family: "Trebuchet";
+font-size: 1;
 text-align: center;
 color: rgb(22, 41, 84);
 font-weight: bold;
@@ -158,7 +172,9 @@ hr {
 }
 
 a {
-    color: #337ab7;
+  /* font-family: "Metamorphous", Trebuchet; */
+  font-family: 'Metamorphous', cursive;
+    color: #263D21;
     text-decoration: none
 }
 
