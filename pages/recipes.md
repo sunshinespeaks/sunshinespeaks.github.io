@@ -1,11 +1,10 @@
 ---
-layout: recipeshome
 title: Recipes
-subtitle: My Recipe Site #optional sub title to the post
-permalink: /recipes/
-tags:
-published: true
-hide: false #remove this line when you want your recipe site on the menu
+permalink: "/recipes/"
+layout: recipeshome
+subtitle: My Recipe Site
+tags: 
+hide: false
 ---
 
 These recipes will help provide you with healthy, healing foods and recipes that still guarantee to get your mouth watering! The recipes offer everything you need to prepare and create delicious foods that can help to heal, strengthen, nourish and energize the body. Not only will The Holistic Kitchen help you create balanced meals but also offer healthy and flavourful alternatives to breakfast classics, lunches & snacks and refreshing beverages.

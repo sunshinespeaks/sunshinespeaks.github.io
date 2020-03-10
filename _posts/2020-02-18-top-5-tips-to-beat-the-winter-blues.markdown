@@ -1,14 +1,10 @@
 ---
-layout: post
 title: Top 5 Tips to Beat the Winter Blues
-date: 2020-02-18 15:47
-published: true
-header_feature_image:
-caption:
-tags:    # use [tag1,tag2]
+date: 2020-02-18 15:47:00 Z
+layout: post
+header_feature_image: 
+caption: 
 ---
-
-
 
 Let’s be honest winter time is the saddest time of the year, we all take for granted how sunlight (or lack thereof) can significantly affect our mood. As people we need regular fresh air and sunlight to feel and perform at our best and during winter months, honestly, it’s just hard to find the motivation to go outside and brave the freezing cold temperatures just to get our “recommended” daily sunshine intake. It’s not just the ramblings of the likes of me – it’s scientifically proven, there’s even a name for it – S.A.D (Season Affective Disorder).
 

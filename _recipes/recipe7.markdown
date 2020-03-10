@@ -1,16 +1,15 @@
 ---
-layout: recipe
 title: Kombucha Mule (Cocktail or Mocktail)
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 9
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Cocktail
-  - Mocktail
-  - Drink
-  - Recipes
-  - Ginger
+- Cocktail
+- Mocktail
+- Drink
+- Recipes
+- Ginger
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 9
 ---
 
 # Kombucha Mule

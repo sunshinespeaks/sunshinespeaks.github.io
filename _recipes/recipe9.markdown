@@ -1,17 +1,16 @@
 ---
-layout: recipe
 title: Balsamic Chicken with Brussel Sprouts, Cranberries & Pumpkin Seeds
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 6
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Salmon
-  - Slaw
-  - Asian
-  - Recipes
-  - Fresh
-  - Vegetables
+- Salmon
+- Slaw
+- Asian
+- Recipes
+- Fresh
+- Vegetables
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 6
 ---
 
 # Balsamic Chicken with Brussel Sprouts, Cranberries & Pumpkin Seeds

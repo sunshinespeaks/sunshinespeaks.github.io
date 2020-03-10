@@ -1,17 +1,16 @@
 ---
-layout: recipe
 title: Clean Turkey Burgers & Tzatziki Dip
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 5
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Burgers
-  - Recipe
-  - Food
-  - Meat
-  - Dip
-  - Tzatziki
+- Burgers
+- Recipe
+- Food
+- Meat
+- Dip
+- Tzatziki
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 5
 ---
 
 # Clean Turkey Burgers & Tzatziki Dip

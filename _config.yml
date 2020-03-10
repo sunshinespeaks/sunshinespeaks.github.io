@@ -1,12 +1,14 @@
-# collections
+---
+title: Sunshine Speaks
+timezone: UTC
 collections:
-  recipes:
-    title: Recipes
-    output: true
-    excerpt_separator: <!--more-->
   posts:
     title: Posts
     output: true
+  recipes:
+    title: Recipes
+    output: true
+    excerpt_separator: "<!--more-->"
   uploads:
     title: Uploads
     output: true
@@ -16,105 +18,79 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
-    order:
-
-# SITE CONFIGURATION
-baseurl: ''  #leave this alone
-url: "https://sunshinespeaks.github.io"   #change this to yours
-title: Sunshine Speaks # site's title
-description: "A website contatining blog posts and recipes centred around holistic ingredients and recipes." # used by search engines
-
-# SITE-SPECIFIC CONFIGURATION
-# Change these 2 images for your own site
-
-avatar: assets/img/avatar.jpg
+    order: 
+baseurl: 
+url: https://sunshinespeaks.github.io
+description: A website contatining blog posts and recipes centred around holistic
+  ingredients and recipes.
+avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
-
-# Your blog on the home page can be arranged as a grid
-
-gridlayout: false # change to true if you want grd layout
-recipemenu: true # you can change to true and a menu of all recipes will appear
-
-# Header and footer text
-# Change this text to yourown
-header_text: Protect Your Peace
-
-recipecollection: The Holistic Kitchen Recipes
-
-# find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/BookFlowersCoffeeNEW.jpg
-recipe_bookcover: /uploads/TheHolisticKitchenNEW.jpg
-
-twitter_username:   #change to your own twitter account
+gridlayout: false
+recipemenu: false
+header_text: My blog and my recipes
+recipecollection: Your recipe collection
+header_feature_image: "/uploads/pages.jpg"
+recipe_bookcover: "/uploads/bookcover.jpg"
+twitter_username: 
 lang: en_gb
-# change the following to your name or site name
-footer_text:
-    "Copyright 2020 Emma Lillywhite"
-  # Icons
-  # If you have any of these accounts add them in here
-rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
-facebook:
-flickr:
-google_plus:
-instagram:
-linkedin:  # Full URL
-pinterest:
-soundcloud:
-twitter: # "twitter username"
-youtube:
-
-# Sharing options
+footer_text: Copyright 2020 Emma Lillywhite
+rss: false
+email_address: 
+facebook: 
+flickr: 
+google_plus: 
+instagram: 
+linkedin: 
+pinterest: 
+soundcloud: 
+twitter: 
+youtube: 
 share_buttons:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  linkedin:
+  tumblr: 
+  pinterest: 
+  linkedin: 
   email: true
-
-# Scripts / Features
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
-disqus_shortname: # create an account on disqus.com for comments
-
-# Localization strings
-str_follow_on: "Follow on"
-str_rss_follow: "Follow RSS feed"
-str_share_on: "Share on"
-str_add_to: "Add to"
-str_email: "Email"
-str_tweet: "Tweet"
-str_pin_it: "Pin it"
-str_next_post: "Next post"
-str_previous_post: "Previous post"
-str_next_page: "Next"
-str_previous_page: "Prev"
-str_javascript_required_disqus: "Please enable JavaScript to view comments."
-
-# Post navigation
+google_analytics: 
+disqus_shortname: 
+str_follow_on: Follow on
+str_rss_follow: Follow RSS feed
+str_share_on: Share on
+str_add_to: Add to
+str_email: Email
+str_tweet: Tweet
+str_pin_it: Pin it
+str_next_post: Next post
+str_previous_post: Previous post
+str_next_page: Next
+str_previous_page: Prev
+str_javascript_required_disqus: Please enable JavaScript to view comments.
 post_navigation: true
-
-# PAGINATION
 paginate: 10
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
+paginate_path: blog/page:num
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
-exclude: [".jekyll-cache", "Gemfile", "README.md"]
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+exclude:
+- ".jekyll-cache"
+- Gemfile
+- README.md

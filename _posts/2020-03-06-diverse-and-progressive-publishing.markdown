@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Diverse and Progressive Publishing
-date: 2020-03-06 12:27
-published: true
-header_feature_image:
-caption:
-tags:    # use [tag1,tag2]
+date: 2020-03-06 12:27:00 Z
+layout: post
+header_feature_image: 
+caption: 
 ---
+
 Diverse & Progressive Publishing
 Since the publication of Spread the Word’s writing the future report in 2015, publishers all around the world have made huge steps towards a more diverse and equal workplace. In order to do this publisher must encompass all areas, from; recruitment to un-bias training. Publisher’s, as a result, have been seen as more open and progressive in comparison to other business-based industries.
 
