@@ -10,14 +10,32 @@ html {
   display:none;
 }
 
+
+section.post-content {
+
+}
+
+div {
+background-color:;
+
+}
+
+header {
+
+}
+
 img {
   float:right;
-  max-width: 50%;
+  width: 50%;
 }
 
 h1.title {
   font-size:2em;
-  color:red;
+  color:rgb(43, 67, 115);
+  text-align: center;
+  border: double;
+  border-width: thick;
+
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -26,13 +44,27 @@ main, menu, nav, section, summary {
 }
 
 body {
-    font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+    font-family: "courier new", "Trebuchet MS", Helvetica, Arial, sans-serif;
     margin: 30px;
     font-size: 1.25em;
+    max-width: 900px;
+    margin: auto;
+    /* background-color: rgb(251, 243, 188) ; */
+    padding: 0px 50px 0px 50px
 }
 
 h1.site-title {
 font-size: 2.5em;
+color:rgb(22, 41, 84);
+text-align: center;
+padding-top: 15px);
+}
+
+h2 {
+font-family:cursive: ;
+width:50%;
+color:rgb(22, 41, 84);
+/* padding:20px 4px 20px 4px; */
 }
 
 img.cover {
@@ -40,6 +72,34 @@ float:right;
 width:30%;
 margin:12px;
 }
+
+ul{
+/* box-sizing: content-box;
+width: 300px;
+height: 50px; */
+width:40%;
+padding: 10px;
+/* border: double;
+border-color:rgb(246, 197, 52); */
+color: rgb(60, 122, 153);
+margin: 0 inherit;
+font-weight: bold;
+list-style-type: square;
+}
+
+p {
+font-size: 0.8em;
+text-align: center;
+color:rgb(22, 41, 84);
+padding-bottom: 30px;
+}
+
+#info {
+font-weight: bold;
+color: rgb(60, 122, 153);
+padding: 30px;
+}
+
 
 
 blockquote {
@@ -60,7 +120,35 @@ p, ol, ul {
     line-height: 1.5;
     margin-bottom: 1em;
 }
+ol{
+  font: "courier new";
+  color: rgb(22, 41, 84);
+  font-size: 0.9em;
 
+
+}
+ul {
+font-size: 0.7em;
+}
+
+li{
+margin: 0.3em;
+}
+
+#next-post {
+text-align: center;
+color: rgb(22, 41, 84);
+font-weight: bold;
+}
+
+
+
+#previous-post {
+  text-align: center;
+  color: rgb(22, 41, 84);
+  font-weight: bold;
+
+}
 
 hr {
     border: 0;
@@ -76,6 +164,7 @@ a {
 
 /* for a menu for all recipes */
 ul.recipes {
+  font-size: 0.6em;
   border: 1px solid gray;
   width: 15%;
   float:right;
@@ -83,4 +172,5 @@ ul.recipes {
   position: absolute;
   top:40px;
   right:20px;
+
 }
