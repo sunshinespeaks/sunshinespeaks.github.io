@@ -39,7 +39,7 @@ description: A website contatining blog posts and recipes centred around holisti
 avatar: assets/img/avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
-recipemenu: true
+recipemenu: false
 header_text: Protect Your Peace
 recipecollection: The Holistic Kitchen
 header_feature_image: "/uploads/teaandbook.jpg"
