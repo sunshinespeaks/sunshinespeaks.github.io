@@ -194,6 +194,9 @@ ul.recipes {
 
 img class= "cover"{
  max-width:900px ; min-width: 500px;
+float:right;
+width:30%;
+margin:12px;
 }
 
 div.home {
