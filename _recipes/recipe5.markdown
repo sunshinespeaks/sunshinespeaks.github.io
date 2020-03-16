@@ -15,9 +15,7 @@ order: 7
 
 # Gooey Sweet Potato Brownie & Warm Chocolate Sauce
 
-Try out this yummy, gooey sweet potato brownie recipe! This recipe is chocolatey and rich, the perfect sweet dessert option with all natural ingredients. Be indulgent!
-
-Sweet potatoes are great for your overall gut health and an excellent support for your immune system. They have also been proven to support healthy vision and can enhance brain function.
+Try out this yummy, gooey sweet potato brownie recipe! This recipe is chocolatey and rich, the perfect sweet dessert option with all natural ingredients. Be indulgent! Sweet potatoes are great for your overall gut health and an excellent support for your immune system. They have also been proven to support healthy vision and can enhance brain function.
 
 <!--more-->
 

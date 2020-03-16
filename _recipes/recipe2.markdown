@@ -15,9 +15,7 @@ order: 2
 
 # Baked Banana & Blueberry Oatmeal
 
-I know some people find oatmeal a bit unusual however I cannot recommend this recipe more! I love the yummy fruit combination and hint of cinnamon. You can always swap out the toppings if you fancy mixing up the flavours.   
-
-This recipe is vegetarian and vegan friendly. Oats are packed full of antioxidants and fibre, they are also incredibly filling and provide slow releasing energy.
+I know some people find oatmeal a bit unusual however I cannot recommend this recipe more! I love the yummy fruit combination and hint of cinnamon. You can always swap out the toppings if you fancy mixing up the flavours. This recipe is vegetarian and vegan friendly. Oats are packed full of antioxidants and fibre, they are also incredibly filling and provide slow releasing energy.
 
 <!--more-->
 

@@ -15,9 +15,7 @@ order: 4
 
 # Salmon & Zesty Asian Slaw
 
-Fresh, bright and zingy, this salad ticks every box. This recipe works great for a dinner or a speedy lunchtime recipe. The cabbage or nut type can always be swapped out depending on your preference.
-
-Salmon is high in vitamin B and contains tonnes of omega-3 fatty acids. Salmon is also a great anti-inflammatory meat alternative. However if you are feeling a veggie meal, simple cut out the fish however if salmon isn't to your liking then other meat alternatives work just as well.
+Fresh, bright and zingy, this salad ticks every box. This recipe works great for a dinner or a speedy lunchtime recipe. The cabbage or nut type can always be swapped out depending on your preference. Salmon is high in vitamin B and contains tonnes of omega-3 fatty acids. Salmon is also a great anti-inflammatory meat alternative. However if you are feeling a veggie meal, simple cut out the fish however if salmon isn't to your liking then other meat alternatives work just as well.
 
 <!--more-->
 

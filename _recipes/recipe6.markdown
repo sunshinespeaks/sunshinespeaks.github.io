@@ -16,9 +16,7 @@ order: 8
 
 # Rhubarb, Apple & Ginger Muffins
 
-Enjoy this yummy gluten and dairy free baked good alternative, packed full of nutrients and is a great way to have a sweet treat without overdoing the sugar and putting pressure on you gut!
-
-Rhubarb is a great source of magnesium and dietary fibre, encouraging healthy digestion. It contains vitamin C & K, calcium and potassium. It is also extremely low in saturated fats and sodium. Apples are known to be a great facilitator for digestion, reduces risks of numerous health related illnesses and also helps to control your blood sugar levels.
+Enjoy this yummy gluten and dairy free baked good alternative, packed full of nutrients and is a great way to have a sweet treat without overdoing the sugar and putting pressure on you gut! Rhubarb is a great source of magnesium and dietary fibre, encouraging healthy digestion. It contains vitamin C & K, calcium and potassium. It is also extremely low in saturated fats and sodium. Apples are known to be a great facilitator for digestion, reduces risks of numerous health related illnesses and also helps to control your blood sugar levels.
 
 
 <!--more-->

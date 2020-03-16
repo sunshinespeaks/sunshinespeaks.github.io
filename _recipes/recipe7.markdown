@@ -14,9 +14,7 @@ order: 9
 
 # Kombucha Mule
 
-Enjoy a cocktail with probiotic benefits! This gingery kombucha mule is a gut-healthy version of the refreshing Moscow Mule (comes in both an alcoholic and a non-alcoholic version).
-
-Kombucha is promoted to help improve digestion and diabetes, strengthen the immune system, reduce blood pressure and being detoxifying. Kombucha is a fermented drink made from sweetened tea and a specific culture known as a scoby. Scoby stands for ‘symbiotic culture of bacteria and yeasts’.
+Enjoy a cocktail with probiotic benefits! This gingery kombucha mule is a gut-healthy version of the refreshing Moscow Mule (comes in both an alcoholic and a non-alcoholic version). Kombucha is promoted to help improve digestion and diabetes, strengthen the immune system, reduce blood pressure and being detoxifying. Kombucha is a fermented drink made from sweetened tea and a specific culture known as a scoby. Scoby stands for ‘symbiotic culture of bacteria and yeasts’.
 
 <!--more-->
 
