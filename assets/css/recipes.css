@@ -192,6 +192,10 @@ ul.recipes {
 
 }
 
+img = class "cover"{
+ max-width:900px ; min-width: 500px;
+}
+
 div.home {
 text-align: left;
 }
