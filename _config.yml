@@ -36,7 +36,7 @@ defaults:
 baseurl:
 url: https://sunshinespeaks.github.io
 description: A website contatining blog posts and recipes centred around holistic ingredients and recipes.
-avatar: assets/img/face.jpg
+avatar: assets/img/avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
