@@ -3,7 +3,7 @@ layout: post
 title: Diverse and Progressive Publishing
 date: 2020-03-06 12:27
 published: true
-header_feature_image:
+header_feature_image: _uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---

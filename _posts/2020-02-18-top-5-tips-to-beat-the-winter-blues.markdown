@@ -1,6 +1,8 @@
 ---
 title: Top 5 Tips to Beat the Winter Blues
 date: 2020-02-18 15:47:00 Z
+header_feature_image: _uploads/nighttimenew.jpg
+
 layout: post
 ---
 
