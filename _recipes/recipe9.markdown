@@ -19,7 +19,7 @@ Brussel sprouts are such an under-rated vegetable. Brussels are high in fibre, v
 
 <!--more-->
 
-[![Balsamic Chicken with Brussel Sprouts, Cranberries & Pumpkin Seeds](//_uploads/balsamicchickenbrussels.jpg)](//_uploads/balsamicchickenbrussels.jpg)
+[![Balsamic Chicken Brussels](/_uploads/balsamicchickenbrussels.jpg)](/_uploads/balsamicchickenbrussels.jpg)
 
 ## Ingredients
 
