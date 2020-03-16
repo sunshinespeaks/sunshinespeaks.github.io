@@ -21,7 +21,7 @@ This recipe is vegetarian and vegan friendly. Oats are packed full of antioxidan
 
 <!--more-->
 
-[![Baked Banana & Blueberry Oatmeal](/_uploads/baked-banana-blueberry-oatmeal-recipe-1-440x440.jpg)](/_uploads/baked-banana-blueberry-oatmeal-recipe-1-440x440.jpg)
+[![Baked Banana & Blueberry Oatmeal](/_uploads/baked-banana-blueberry-oatmeal-recipe-1-440x440.jpg)](/_uploads/bakedbananaoatmeal.jpg)
 
 ## Ingredients
 
