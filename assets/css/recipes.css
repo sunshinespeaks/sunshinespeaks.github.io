@@ -15,6 +15,12 @@ section.post-content {
 
 }
 
+@media screen and (max-width: 1200px) {
+
+  ul.recipes {
+    display:none;
+  }
+
 div.content {
 background-color: white;
 padding: 25px 20px 25px 20px;
