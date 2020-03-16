@@ -9,7 +9,7 @@ tags:    # use [tag1,tag2]
 ---
 Herbal teas have been around for centuries. Herbal teas can be made from anything including; dried fruits, flowers, spices and herbs. Herbal teas come in a variety of tastes and flavours and many contain ingredients claiming to have amazing health benefits! So why not, during a time of health uncertainty, try a delicious new tea with health- promoting ingredients that help to support your body and immune system.
 
-
+[![Herbal Tea](/_uploads/herbaltea.jpg)](/_uploads/herbaltea.jpg)
 
 1.	Chamomile Tea
 Perhaps one of the most common herbal teas; well known for its calming effects and aid in sleeping. Studies have been carried out into the effectiveness of camomile teat on sleep issues. One study found that drinking camomile tea for two weeks help improve postpartum women’s sleep quality and they also saw a decrease in symptoms of depression. Another study found that drinking camomile tea marginally improved patients suffering with insomnia. Camomile tea is also believed to have antibacterial, anti-inflammatory and liver protecting effects.
