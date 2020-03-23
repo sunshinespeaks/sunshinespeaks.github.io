@@ -1,5 +1,5 @@
 ---
-title: 5 things to do when you wake up
+title: 5 Things To Do When You Wake Up
 date: 2020-03-10 15:49:00 Z
 categories:
 - Blogging
