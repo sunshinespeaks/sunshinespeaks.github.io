@@ -10,6 +10,7 @@ tags:
 - Exercise
 - Health
 - Positivity
+header_feature_image: "/uploads/Morning%20-d770d6.jpg"
 ---
 
 I don’t know about you but I struggle to be productive for at least the first 2 hours after getting up out of bed in the morning. It’s so easy to wake up on a weekend and reach over, rip your phone off charge and spend half an hour scrolling mindlessly through Instagram or switching on the TV and watching good morning Britain until the unproductive guilt kicks in. After a prolonged period of screen time, I find it increasingly hard to motivate myself to have an extremely productive day if I do not start straight out of bed. So, how can you have relaxed morning that leaves you feeling energised and motivated for the rest of your day? Well, ...
