@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Positivi-TEA – Natural herbal teas to help boost your immune system
-date: 2020-03-16 11:19
-published: true
+date: 2020-03-16 11:19:00 Z
+layout: post
 header_feature_image: _uploads/herbaltea.jpg
-caption:
-tags:    # use [tag1,tag2]
+caption: 
 ---
+
 Herbal teas have been around for centuries. Herbal teas can be made from anything including; dried fruits, flowers, spices and herbs. Herbal teas come in a variety of tastes and flavours and many contain ingredients claiming to have amazing health benefits! So why not, during a time of health uncertainty, try a delicious new tea with health- promoting ingredients that help to support your body and immune system.
 
 [![Herbal Tea](/_uploads/herbaltea.jpg)](/_uploads/herbaltea.jpg)

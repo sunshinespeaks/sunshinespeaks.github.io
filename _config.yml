@@ -18,24 +18,25 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
-    order:
-baseurl:
+    order: 
+baseurl: 
 url: https://sunshinespeaks.github.io
-description: A website contatining blog posts and recipes centred around holistic ingredients and recipes.
+description: A website contatining blog posts and recipes centred around holistic
+  ingredients and recipes.
 avatar: assets/img/avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
@@ -44,29 +45,29 @@ header_text: Protect Your Peace
 recipecollection: The Holistic Kitchen Recipes
 header_feature_image: "/uploads/teaandbook.jpg"
 recipe_bookcover: "/uploads/bookcover.jpg"
-twitter_username:
+twitter_username: 
 lang: en_gb
 footer_text: Copyright 2020 Emma Lillywhite
 rss: false
-email_address:
-facebook:
-flickr:
-google_plus:
-instagram:
-linkedin:
-pinterest:
-soundcloud:
-twitter:
-youtube:
+email_address: 
+facebook: 
+flickr: 
+google_plus: 
+instagram: 
+linkedin: 
+pinterest: 
+soundcloud: 
+twitter: 
+youtube: 
 share_buttons:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  linkedin:
+  tumblr: 
+  pinterest: 
+  linkedin: 
   email: true
-google_analytics:
-disqus_shortname:
+google_analytics: 
+disqus_shortname: 
 str_follow_on: Follow on
 str_rss_follow: Follow RSS feed
 str_share_on: Share on
