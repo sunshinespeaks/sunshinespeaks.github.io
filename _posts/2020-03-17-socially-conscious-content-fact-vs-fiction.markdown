@@ -1,6 +1,6 @@
 ---
 title: Socially Conscious Content - Fact vs Fiction
-date: 2020-04-17 18:06:00 Z
+date: 2020-03-17 18:06:00 Z
 header_feature_image: "/uploads/Peace-35bb99.jpg"
 ---
 
