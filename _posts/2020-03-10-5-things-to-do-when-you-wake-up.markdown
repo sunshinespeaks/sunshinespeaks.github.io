@@ -17,7 +17,7 @@ I don’t know about you but I struggle to be productive for at least the first 
 
 ![Morning .jpg](/uploads/Morning%20.jpg)
 
-**Stay Away From Screens** – My whole attitude in the morning completely changes if I stay away from digital devices. Yes – This means no morning TV binge-watching and no Instagram morning mantras. If you must check a screen, let it only be yours emails as these are the only things remotely important – this coming from a student. However, ignoring the pull of social media procrastination and instead swapping this out for a read or some form of 5-10-minute yoga or meditation really helps to re-fresh and begin my day with a clear mind. 
+**Stay Away From Screens** – My whole attitude in the morning completely changes if I stay away from digital devices. Yes – This means no morning TV binge-watching and no Instagram morning mantras. If you must check a screen, let it only be yours emails as these are the only things remotely important – this coming from a student. Ignoring the pull of social media procrastination and instead swap this out for a read or some form of 5-10 minute yoga or meditation really helps to re-fresh and begin your day with a clear mind. 
 
 **Exercise** – This one is kind of a no brainer. It’s so hard to motivate yourself in early mornings to get up and go on a run, head to the gym or try out that new home workout. However, once you start this routine, it is so easily up-kept and it really does leave you feeling great. I personally don’t like to pay for gym memberships when I can do home workouts or run outdoors. The combination of morning exercise and the fresh outdoors air really is a great way to start a productive day and really clear the mind - keeping you physically and mentally fit also!
 
