@@ -5,7 +5,7 @@ header_feature_image: _uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg
 layout: post
 ---
 
-Since the publication of Spread the Word’s writing the future report in 2015, publishers all around the world have made huge steps towards a more diverse and equal workplace. In order to do this publisher must encompass all areas, from; recruitment to un-bias training. Publisher’s, as a result, have been seen as more open and progressive in comparison to other business-based industries.
+Since the publication of Spread the Word’s writing the future report in 2015, publishers all around the world have made huge steps towards a more diverse and equal workplace. In order to do this publishers must encompass all areas, from; recruitment to un-bias training. Publisher’s, as a result, have been seen as more open and progressive in comparison to other business-based industries.
 
 [![Diverse Books](/_uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg)](/_uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg)
 
