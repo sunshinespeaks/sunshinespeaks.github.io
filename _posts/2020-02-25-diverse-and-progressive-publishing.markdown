@@ -13,7 +13,8 @@ To date BAME writers have struggled to get their manuscripts and ideas commissio
 
 Despite publishing becoming increasingly progressive and diverse, this is an issue that has been discussed for years, not only for authors of colour but for equality between male and female writers and publishers alike. This is an issue that still needs more work and not enough is being done to eradicate any prejudices or bias’.
 
-UK Publishers Association: **“The number of women in senior leadership roles, representation of LGBT+ staff and representation of disabled staff are all high within publishing. … However, despite positive results in many areas significant progress still needs to be made around the numbers of BAME [black, Asian, and minority ethnic] staff employed and improving regional diversity across the industry.”**
+**
+UK Publishers Association: “The number of women in senior leadership roles, representation of LGBT+ staff and representation of disabled staff are all high within publishing. … However, despite positive results in many areas significant progress still needs to be made around the numbers of BAME [black, Asian, and minority ethnic] staff employed and improving regional diversity across the industry.”**
 
 A survey in 2018 found that the ratios of male and women in senior publishing roles had equalled out more significantly than in previous years. Statistics showed that 54% of senior leadership and executive level roles were held by women (56 percent in senior leadership roles and 48 percent at executive level). However only 11.6% of respondents identified as BAME, 8.2% as LGB, 5.4% identifying as having a disability or impairment and 0.6% as transgender. Highlighting a real lack in diversity across the board, despite some advances in gender equality. It is important to point out that this is a global industry issue, not only for publishing but other industries and organisations; including the music and film industry.
 
