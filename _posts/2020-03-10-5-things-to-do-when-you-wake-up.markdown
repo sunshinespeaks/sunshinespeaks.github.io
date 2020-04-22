@@ -1,5 +1,5 @@
 ---
-title: 5 Things To Do When You Wake Up
+title: 5 Things To Do To Start Your Day In A Positive Way
 date: 2020-03-10 15:49:00 Z
 categories:
 - Blogging
