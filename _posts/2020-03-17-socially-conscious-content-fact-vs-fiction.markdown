@@ -11,7 +11,9 @@ tags:
 header_feature_image: "/uploads/Peace-35bb99.jpg"
 ---
 
-Consumers are not only looking to purchase social and environmentally conscious products but also relatable content. In an industry where content is sold purely to make profit it is important to remember that there are publishing organisations out there who offer an alternative, not-for-profit approach to journalism and publishing. The New Internationalist is an international non-profit organisation that aims to publish content that other magazines and publishing companies choose to “sidestep” as well as provide alternative perspectives to global issues. The New Internationalist covers topics such as; the climate, democracy, economics, technology, human rights, migration, minorities and war & peace. It is so important to support companies such as the New Internationalist by purchasing such published content in order to educate oneself of worldwide issues and news that other outlets do not necessarily shine a light on, both nationally and internationally. 
+Consumers are not only looking to purchase social and environmentally conscious products but also relatable content. In an industry where content is sold purely to make profit it is important to remember that there are publishing organisations out there who offer an alternative, not-for-profit approach to journalism and publishing. 
+
+The New Internationalist is an international non-profit organisation that aims to publish content that other magazines and publishing companies choose to “sidestep” as well as provide alternative perspectives to global issues. The New Internationalist covers topics such as; the climate, democracy, economics, technology, human rights, migration, minorities and war & peace. It is so important to support companies such as the New Internationalist by purchasing such published content in order to educate oneself of worldwide issues and news that other outlets do not necessarily shine a light on, both nationally and internationally. 
 
 ![Peace.jpg](/uploads/Peace.jpg)
 
