@@ -12,7 +12,7 @@ tags:
 - blog
 - sustainable
 - reading
-header_feature_image: "/uploads/Zerowaste.jpg"
+header_feature_image: "/uploads/No%20waste.jpg"
 ---
 
 More and more people are discovering and understanding the detrimental effects plastic waste has on our environment, seas and wildlife. Consequently, more people are looking for quick and easy alternatives in order to cut back on their plastic usage or eradicate it altogether in order to do their bit in helping save the planet and live in a more natural, litter free environment. 
