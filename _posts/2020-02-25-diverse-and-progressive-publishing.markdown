@@ -1,7 +1,7 @@
 ---
 title: Diverse and Progressive Publishing
 date: 2020-02-25 12:27:00 Z
-header_feature_image: "/uploads/Rainbow.jpg"
+header_feature_image: "/uploads/DiverseBooks.jpg"
 layout: post
 ---
 
