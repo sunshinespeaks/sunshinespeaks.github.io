@@ -15,7 +15,7 @@ Consumers are not only looking to purchase social and environmentally conscious 
 
 The New Internationalist is an international non-profit organisation that aims to publish content that other magazines and publishing companies choose to “sidestep” as well as provide alternative perspectives to global issues. The New Internationalist covers topics such as; the climate, democracy, economics, technology, human rights, migration, minorities and war & peace. It is so important to support companies such as the New Internationalist by purchasing such published content in order to educate oneself of worldwide issues and news that other outlets do not necessarily shine a light on, both nationally and internationally. 
 
-![Peace.jpg](/uploads/Peace.jpg)
+![PeaceSunshine.jpg](/uploads/PeaceSunshine.jpg)
 
 In today's society it is increasingly hard to cut through all the noise online and social media and decipher fact from fiction with the ever-increasing idea of “fake news”. The New Internationalist’s approach to journalism helps to produce credible and reliable content that informs and educates rather than twist or fabricate a story for profit-based purposes. Undoubtably, it is becoming harder to understand fact and fiction but also truth and opinion. The advances in social media and digital publishing mean that it is much easier to publish opinion and spread ideologies worldwide within seconds, that is not necessarily relevant or factual, making it increasingly easy to mistake opinion- based content for a factual representation of an event or idea. 
 
