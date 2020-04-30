@@ -23,4 +23,4 @@ Speaking from experience… when I attempt a routine of “self-care”, persona
 
 6.	Take time off – Plan a trip or fun day out, alone, or with friends! This could be a weekend trip or simply switching off your technology and taking a tech-detox.
 
-I hope everyone is already great with their own self-care “routines” however if not I hope these ideas have opened your eyes to new ways to give yourself a break and nourish your mind, body and soul.
+I hope everyone is already great with their own self-care “routines” however if not I hope these ideas have opened your eyes to new ways to give yourself a break and nourish your mind, body, and soul.
