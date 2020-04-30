@@ -7,7 +7,7 @@ layout: post
 
 Since the publication of Spread the Word’s writing the future report in 2015, publishers all around the world have made huge steps towards a more diverse and equal workplace. In order to do this publishers must encompass all areas, from; recruitment to un-bias training. Publisher’s, as a result, have been seen as more open and progressive in comparison to other business-based industries.
 
-[![Diverse Books](/_uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg)](/_uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg)
+![MovingForward.jpg](/uploads/MovingForward.jpg)
 
 To date BAME writers have struggled to get their manuscripts and ideas commissioned and published. Many BAME writers felt pressure into writing only about racial and ethnic stereotypes, giving them a sense of constraint in the types of genre they can penetrate – again limiting the number of published BAME writers across a plethora of genres. The reality is publishers often find the idea of new colour writers a much riskier investment in comparison to other writers, however this mentality across numerous publishers only cements this idea further and limits BAME writers to being a minority voice within the publishing industry. This is not only during commissioning processes but across the board; including production and marketing of such books.
 
