@@ -5,16 +5,16 @@ header_feature_image: "/uploads/Tea.jpg"
 layout: post
 ---
 
-Herbal teas have been around for centuries. Herbal teas can be made from anything including; dried fruits, flowers, spices and herbs. Herbal teas come in a variety of tastes and flavours and many contain ingredients claiming to have amazing health benefits! So why not, during a time of health uncertainty, try a delicious new tea with health- promoting ingredients that help to support your body and immune system.
+Herbal teas have been around for centuries. Herbal teas can be made from anything including; dried fruits, flowers, spices and herbs. Herbal teas come in a variety of tastes and flavours and many contain ingredients claiming to have amazing health benefits! So why not, during a time of health uncertainty, try a delicious new tea with health-promoting ingredients that help to support your body and immune system.
 
 ![MintTea.jpg](/uploads/MintTea.jpg)
 
 1.	Chamomile Tea
-Perhaps one of the most common herbal teas; well known for its calming effects and aid in sleeping. Studies have been carried out into the effectiveness of camomile teat on sleep issues. One study found that drinking camomile tea for two weeks help improve postpartum women’s sleep quality and they also saw a decrease in symptoms of depression. Another study found that drinking camomile tea marginally improved patients suffering with insomnia. Camomile tea is also believed to have antibacterial, anti-inflammatory and liver protecting effects.
+Perhaps one of the most common herbal teas; well known for its calming effects and aid in sleeping. Studies have been carried out into the effectiveness of camomile teat on sleep issues. One study found that drinking camomile tea for two weeks helps improve postpartum women’s sleep quality and they also saw a decrease in symptoms of depression. Another study found that drinking camomile tea marginally improved patients suffering from insomnia. Camomile tea is also believed to have antibacterial, anti-inflammatory and liver-protecting effects.
 2.	Peppermint Tea
 Peppermint tea is a globally known herbal tea. Peppermint is most well-known for its support in digestive health however it also contains antioxidant, anticancer, antibacterial and antiviral properties. Peppermint is proven to help relieve indigestion, nausea and stomach pains. Studies have also proven that peppermint can relieve symptoms of IBS. So, whenever you are experiencing digestive discomfort, peppermint tea is a great natural remedy rather than reaching for the Rennie or painkillers.
 3.	Ginger Tea
-Ginger is well known for its disease fighting antioxidants and certainly packs a punch in terms of flavour! Ginger helps reduce inflammation, aids in stimulating the immune system and is an effective remedy against nausea. This is found to be particularly useful for nausea during early pregnancy.
+Ginger is well known for its disease-fighting antioxidants and certainly packs a punch in terms of flavour! Ginger helps reduce inflammation, aids in stimulating the immune system and is an effective remedy against nausea. This is found to be particularly useful for nausea during early pregnancy.
 4.	Hibiscus Tea
 Hibiscus tea is made from flowers of the hibiscus plant, are red in colour and have a bitter flavour. Hibiscus tea is often enjoyed hot but can also be made as an ice tea. Hibiscus has antiviral properties and has shown to have extremely positive effects on high blood pressure.
 5.	Rooibos Tea
