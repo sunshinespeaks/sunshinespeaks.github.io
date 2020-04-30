@@ -1,6 +1,14 @@
 ---
 title: Positivity and Productivity during a Pandemic
-date: 2020-04-30 12:45:00 Z
+date: 2020-04-23 12:45:00 Z
+categories:
+- blogging
+- peace
+tags:
+- peace
+- love
+- Blogging
+- pandemic
 header_feature_image: "/uploads/Painting%20.jpg"
 ---
 
