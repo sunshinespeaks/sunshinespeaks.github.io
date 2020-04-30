@@ -10,9 +10,9 @@ Let’s be honest winter time is the saddest time of the year, we all take for g
 [![Beat the Winter Blues](/_uploads/nighttimenew.jpg)](/_uploads/nighttimenew.jpg)
 
 How can we battle these blues I hear you ask?!
-1.	Well – venturing outdoors is an obvious one. The lack of light and shorter days can make this extremely difficult, especially if you are not a particularly outdoorsy type. However fresh air is extremely important, even if it’s just a quick walk round the block. Every little helps!
+1.	Well – venturing outdoors is an obvious one. The lack of light and shorter days can make this extremely difficult, especially if you are not a particularly outdoorsy type. However fresh air is extremely important, even if it’s just a quick walk around the block. Every little helps!
 
-2.	Keep up the exercise – again, because of the shorter, darker and colder days, it’s really easy to get home, switch on netflix and binge watch multiple series before going to sleep. NO – exercise is important to help prevent winter blues and keep fit and healthy despite the depressing weather. This can be done outdoors or (if you’re not up to the weather) try and indoor home workout. These are just as effective and it’s a great way to get in your 15-minute hit session before a chilled evening of Netflix – remember all in moderation!
+2.	Keep up the exercise – again, because of the shorter, darker, and colder days, it’s really easy to get home, switch on Netflix, and binge-watch multiple series before going to sleep. NO – exercise is important to help prevent winter blues and keep fit and healthy despite the depressing weather. This can be done outdoors or (if you’re not up to the weather) try and indoor home workout. These are just as effective and it’s a great way to get in your 15-minute hit session before a chilled evening of Netflix – remember all in moderation!
 
 3.	Try out a lightbox – I have never tried one – nor am I any sort of expert and cannot comment on their effectiveness - saying that, I have only heard good things. But I can imagine waking up to a happy natural light rather than pure darkness would feel like pure bliss during cold winter months.  
 
