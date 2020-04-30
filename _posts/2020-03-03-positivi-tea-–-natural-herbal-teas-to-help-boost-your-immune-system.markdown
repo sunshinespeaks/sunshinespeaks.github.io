@@ -1,7 +1,7 @@
 ---
 title: Positivi-TEA – Natural herbal teas to help boost your immune system
 date: 2020-03-03 11:19:00 Z
-header_feature_image: _uploads/herbaltea.jpg
+header_feature_image: "/uploads/Herbs.jpg"
 layout: post
 ---
 
