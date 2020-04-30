@@ -26,4 +26,6 @@ Another lovely podcast is the amazing Happy Mum Happy Baby by Giovanna Fletcher,
 
 There are some incredible British comedy podcasts. If you are simply looking for a no-brainer laugh then look no further than the My Dad Wrote a Porno comedy podcast featuring three key voices; Jamie Morton, James Cooper and Alice Levine or the amazing Adam Buxton in his hilariously funny The Adam Buxton Show podcast.
 
+Lastly but most certainly not least, check out the Power Hour by Adrienne Herbert. This podcast is amazingly motivational and it's sole purpose is to push you to pursue your passion and achieve success!  
+
 If you are looking for an uplifting, happy, positive or hilarious podcast then I fully recommend – often a much cheaper alternative to purchasing a book or eBook and you get just as much content from each and every episode.  
